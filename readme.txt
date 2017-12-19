@@ -1,1 +1,3 @@
-
+Vue
+Vuex
+Vue-router
